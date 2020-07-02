@@ -1,3 +1,3 @@
-# MongoUI: MongoUI (mongoui) is a web (browser) admin interface for MongoDB.
+# Mongo-dict
 
 Extending MongoUI to make my own dict 
